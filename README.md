@@ -9,7 +9,7 @@ pinned: false
 
 # EU AI Act — Regulatory Q&A (RAG System)
 
-[**👉 Try the Live Demo Here**](https://huggingface.co/spaces/YOUR_SPACE_URL_HERE)
+[**👉 Try the Live Demo Here**](https://huggingface.co/spaces/UsaidB/EU_RAG)
 
 ![Gradio UI Demo](assets/Demo.png)
 
