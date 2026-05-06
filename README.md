@@ -1,12 +1,3 @@
----
-title: EU AI Act RAG Q&A
-emoji: ⚖️
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # EU AI Act — Regulatory Q&A (RAG System)
 
 [**👉 Try the Live Demo Here**](https://huggingface.co/spaces/UsaidB/EU_RAG)
