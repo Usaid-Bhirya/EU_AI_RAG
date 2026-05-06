@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# ChromaDB local store
+chroma_db/
+
+# Raw PDFs (large files — store externally or via DVC)
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual envs / conda
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

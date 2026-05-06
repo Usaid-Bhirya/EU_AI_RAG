@@ -1,0 +1,46 @@
+[
+  {
+    "question": "How does the regulation officially define an \"AI system\"?",
+    "ground_truth": "An \"AI system\" is defined as a machine-based system designed to operate with varying levels of autonomy[cite: 1]. It may exhibit adaptiveness after deployment[cite: 1]. Furthermore, for explicit or implicit objectives, it infers from the input it receives how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments[cite: 1]."
+  },
+  {
+    "question": "What are three specific examples of AI practices that are strictly prohibited under this Regulation?",
+    "ground_truth": "The deployment of subliminal, manipulative, or deceptive techniques that materially distort a person's behavior, causing them to make decisions they otherwise would not have, leading to significant harm[cite: 1]. The exploitation of vulnerabilities of a person or a specific group due to their age, disability, or specific social or economic situation to materially distort their behavior[cite: 1]. The evaluation or classification of natural persons based on social behavior or personality characteristics (social scoring) that leads to detrimental or unfavorable treatment[cite: 1]."
+  },
+  {
+    "question": "Under what conditions might an AI system listed in Annex III not be classified as \"high-risk\"?",
+    "ground_truth": "An AI system listed in Annex III is not considered high-risk if it does not pose a significant risk of harm to the health, safety, or fundamental rights of natural persons[cite: 1]. This exception applies if the system is intended to perform a narrow procedural task, improve the result of a previously completed human activity, detect decision-making patterns without replacing proper human review, or perform a preparatory task for a relevant assessment[cite: 1]. However, if the system performs profiling of natural persons, it is always considered high-risk[cite: 1]."
+  },
+  {
+    "question": "What must providers do to fulfill the requirement of establishing a \"risk management system\" for high-risk AI systems?",
+    "ground_truth": "Providers must establish, implement, document, and maintain a risk management system that operates as a continuous iterative process throughout the entire lifecycle of the high-risk AI system[cite: 1]. This process must include identifying and analyzing known and foreseeable risks, evaluating risks that may emerge under conditions of reasonably foreseeable misuse, and adopting appropriate and targeted risk management measures[cite: 1]."
+  },
+  {
+    "question": "What specific data governance and management practices are required for the training, validation, and testing data sets used in high-risk AI systems?",
+    "ground_truth": "The data governance practices must include relevant design choices, data collection processes, and data-preparation processing operations like annotation, labeling, and cleaning[cite: 1]. They must also include an examination for possible biases that are likely to affect the health and safety of persons or lead to prohibited discrimination, as well as the implementation of appropriate measures to detect, prevent, and mitigate those biases[cite: 1]."
+  },
+  {
+    "question": "What key information must providers include in the instructions for use that accompany a high-risk AI system?",
+    "ground_truth": "The instructions for use must contain the identity and contact details of the provider[cite: 1]. They must also detail the characteristics, capabilities, and limitations of the system, including its intended purpose, its expected level of accuracy, robustness, and cybersecurity, and any known or foreseeable circumstances that may lead to risks to health, safety, or fundamental rights[cite: 1]."
+  },
+  {
+    "question": "How does the AI Act mandate human oversight for high-risk AI systems, and what specific actions must a human operator be able to take?",
+    "ground_truth": "High-risk AI systems must be designed and developed so they can be effectively overseen by natural persons during their use to minimize risks[cite: 1]. The system must enable the human operator to properly understand the system's relevant capacities, correctly interpret its outputs, decide not to use the system or override its output, and intervene in the operation by interrupting the system through a \"stop\" button or similar safe-halt procedure[cite: 1]."
+  },
+  {
+    "question": "If a deployer discovers that a high-risk AI system presents a risk or causes a serious incident, what are their immediate obligations?",
+    "ground_truth": "If a deployer has reason to consider that using the high-risk AI system presents a risk, they must suspend its use and inform the provider or distributor and the relevant market surveillance authority without undue delay[cite: 1]. If the deployer identifies a serious incident, they must immediately inform the provider, the importer or distributor, and the relevant market surveillance authorities[cite: 1]."
+  },
+  {
+    "question": "What transparency obligations apply to deployers of AI systems who generate or manipulate content to create a \"deep fake\"?",
+    "ground_truth": "Deployers who use an AI system to generate or manipulate image, audio, or video content constituting a deep fake must disclose that the content has been artificially generated or manipulated[cite: 1]. However, this disclosure obligation does not apply where the use is authorized by law to detect, prevent, investigate, or prosecute a criminal offense[cite: 1]."
+  },
+  {
+    "question": "Are AI systems that are developed and used exclusively for military, defense, or national security purposes subject to the rules of the AI Act?",
+    "ground_truth": "No, the AI Act explicitly states that it does not apply to AI systems where and in so far as they are placed on the market, put into service, or used exclusively for military, defense, or national security purposes[cite: 1]. This exclusion applies regardless of the type of entity carrying out those activities[cite: 1]."
+  },
+  {
+    "question": "According to the article, why is the prevailing academic consensus that the European Union's AI regulatory framework is fundamentally \"rights-driven\" considered an illusion, and what historical imperatives actually drive the EU's approach?",
+    "ground_truth": "The prevailing academic consensus widely assumes that EU AI regulations, such as the GDPR and the AI Act, are primarily driven by a human-centric commitment to fundamental rights[cite: 2]. However, the authors argue that this rights-based language is instrumentalized, serving as rhetorical cover for governance tools that are actually designed to address systemic risks and maintain institutional stability[cite: 2]. The EU's regulatory architecture is deeply shaped by its specific historical imperatives, which include mitigating inter-state conflict, integrating economic interests, and maintaining social cohesion across a system of fragmented sovereignties[cite: 2]. Rather than treating privacy or labor rights as intrinsic ends, the European Union utilizes them as functional constraints on state and corporate actors to preempt the destabilizing effects of unchecked technological disruption[cite: 2]."
+  }
+]
